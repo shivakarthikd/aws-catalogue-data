@@ -1,0 +1,189 @@
+EU (Paris)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0131000000'}
+Asia Pacific (Mumbai)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+Asia Pacific (Seoul)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0180000000'}
+AWS GovCloud (US-West)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0390000000'}
+EU (Stockholm)Non-Critical DataReduced Redundancy{u'USD': u'0.0224000000'}
+US East (N. Virginia)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0125000000'}
+EU (Paris)General PurposeStandard{u'USD': u'0.0240000000'}
+Asia Pacific (Hong Kong)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0144000000'}
+Asia Pacific (Seoul)General PurposeStandard{u'USD': u'0.0240000000'}
+US West (Oregon)StagingGlacier Deep Archive{u'USD': u'0.0210000000'}
+US East (N. Virginia)ArchiveAmazon Glacier{u'USD': u'0.0040000000'}
+US East (Ohio)ArchiveAmazon Glacier{u'USD': u'0.0040000000'}
+US East (N. Virginia)StagingAmazon Glacier{u'USD': u'0.0210000000'}
+AWS GovCloud (US-East)General PurposeStandard{u'USD': u'0.0355000000'}
+EU (Paris)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0131000000'}
+Asia Pacific (Mumbai)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+EU (Frankfurt)StagingGlacier Deep Archive{u'USD': u'0.0225000000'}
+Canada (Central)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+Asia Pacific (Osaka-Local)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0230000000'}
+EU (Stockholm)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0125000000'}
+EU (Ireland)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0125000000'}
+AWS GovCloud (US-East)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0390000000'}
+South America (Sao Paulo)ArchiveAmazon Glacier{u'USD': u'0.0085000000'}
+Asia Pacific (Mumbai)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0190000000'}
+Asia Pacific (Singapore)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0200000000'}
+EU (London)Intelligent-TieringIntelligent-Tiering{u'USD': u'0.0220000000'}
+EU (Frankfurt)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0225000000'}
+South America (Sao Paulo)Non-Critical DataReduced Redundancy{u'USD': u'0.0315000000'}
+US East (N. Virginia)Non-Critical DataReduced Redundancy{u'USD': u'0.0232000000'}
+EU (Stockholm)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0125000000'}
+EU (London)StagingGlacier Deep Archive{u'USD': u'0.0220000000'}
+EU (Frankfurt)StagingAmazon Glacier{u'USD': u'0.0225000000'}
+EU (London)Non-Critical DataReduced Redundancy{u'USD': u'0.0239000000'}
+US West (N. California)General PurposeStandard{u'USD': u'0.0250000000'}
+EU (Stockholm)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0210000000'}
+US West (Oregon)StagingAmazon Glacier{u'USD': u'0.0210000000'}
+Asia Pacific (Sydney)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0190000000'}
+EU (Stockholm)StagingGlacier Deep Archive{u'USD': u'0.0210000000'}
+Asia Pacific (Mumbai)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0250000000'}
+EU (Paris)StagingGlacier Deep Archive{u'USD': u'0.0220000000'}
+South America (Sao Paulo)StagingGlacier Deep Archive{u'USD': u'0.0370000000'}
+EU (Ireland)ArchiveAmazon Glacier{u'USD': u'0.0040000000'}
+Asia Pacific (Hong Kong)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+EU (Frankfurt)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0135000000'}
+AWS GovCloud (US-West)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0200000000'}
+EU (Paris)Non-Critical DataReduced Redundancy{u'USD': u'0.0252000000'}
+South America (Sao Paulo)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0260000000'}
+Asia Pacific (Mumbai)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0152000000'}
+US East (Ohio)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0125000000'}
+EU (Frankfurt)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0135000000'}
+Asia Pacific (Hong Kong)General PurposeStandard{u'USD': u'0.0250000000'}
+AWS GovCloud (US-West)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0160000000'}
+Asia Pacific (Seoul)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+US East (Ohio)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0220000000'}
+Canada (Central)Non-Critical DataReduced Redundancy{u'USD': u'0.0242000000'}
+US East (N. Virginia)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0100000000'}
+EU (London)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0104800000'}
+Asia Pacific (Sydney)General PurposeStandard{u'USD': u'0.0240000000'}
+Asia Pacific (Seoul)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0180000000'}
+Asia Pacific (Singapore)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+Asia Pacific (Tokyo)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+Asia Pacific (Seoul)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0250000000'}
+US West (N. California)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0240000000'}
+AWS GovCloud (US-East)Non-Critical DataReduced Redundancy{u'USD': u'0.0301000000'}
+EU (Ireland)General PurposeStandard{u'USD': u'0.0220000000'}
+US West (N. California)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0190000000'}
+US East (N. Virginia)General PurposeStandard{u'USD': u'0.0220000000'}
+Asia Pacific (Osaka-Local)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+US East (N. Virginia)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0220000000'}
+Asia Pacific (Hong Kong)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0180000000'}
+Canada (Central)ArchiveAmazon Glacier{u'USD': u'0.0045000000'}
+US East (Ohio)General PurposeStandard{u'USD': u'0.0210000000'}
+Asia Pacific (Sydney)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+Asia Pacific (Osaka-Local)Non-Critical DataReduced Redundancy{u'USD': u'0.0250000000'}
+Asia Pacific (Tokyo)General PurposeStandard{u'USD': u'0.0230000000'}
+Asia Pacific (Sydney)Non-Critical DataReduced Redundancy{u'USD': u'0.0242000000'}
+Middle East (Bahrain)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0138000000'}
+AWS GovCloud (US-East)StagingAmazon Glacier{u'USD': u'0.0355000000'}
+US East (Ohio)Non-Critical DataReduced Redundancy{u'USD': u'0.0232000000'}
+Middle East (Bahrain)General PurposeStandard{u'USD': u'0.0230000000'}
+US East (Ohio)StagingAmazon Glacier{u'USD': u'0.0210000000'}
+Asia Pacific (Mumbai)Non-Critical DataReduced Redundancy{u'USD': u'0.0220000000'}
+Asia Pacific (Sydney)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0152000000'}
+US West (N. California)Non-Critical DataReduced Redundancy{u'USD': u'0.0255000000'}
+Asia Pacific (Sydney)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+South America (Sao Paulo)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0390000000'}
+EU (Paris)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0104800000'}
+US West (N. California)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0152000000'}
+South America (Sao Paulo)StagingAmazon Glacier{u'USD': u'0.0370000000'}
+EU (Stockholm)ArchiveAmazon Glacier{u'USD': u'0.0040000000'}
+Asia Pacific (Tokyo)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0152000000'}
+Middle East (Bahrain)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+AWS GovCloud (US-West)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0200000000'}
+Asia Pacific (Singapore)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+EU (London)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0131000000'}
+Asia Pacific (Tokyo)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+EU (Frankfurt)ArchiveAmazon Glacier{u'USD': u'0.0045000000'}
+Asia Pacific (Singapore)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0230000000'}
+US East (N. Virginia)StagingGlacier Deep Archive{u'USD': u'0.0210000000'}
+EU (Ireland)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0230000000'}
+Asia Pacific (Mumbai)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+US West (Oregon)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0100000000'}
+US East (Ohio)StagingGlacier Deep Archive{u'USD': u'0.0210000000'}
+Middle East (Bahrain)ArchiveAmazon Glacier{u'USD': u'0.0045000000'}
+EU (Frankfurt)General PurposeStandard{u'USD': u'0.0235000000'}
+Asia Pacific (Osaka-Local)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0190000000'}
+Asia Pacific (Hong Kong)Non-Critical DataReduced Redundancy{u'USD': u'0.0240000000'}
+AWS GovCloud (US-East)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0200000000'}
+Middle East (Bahrain)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+AWS GovCloud (US-West)Non-Critical DataReduced Redundancy{u'USD': u'0.0301000000'}
+Middle East (Bahrain)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0138000000'}
+EU (Paris)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0240000000'}
+AWS GovCloud (US-West)ArchiveAmazon Glacier{u'USD': u'0.0060000000'}
+Asia Pacific (Mumbai)General PurposeStandard{u'USD': u'0.0230000000'}
+EU (London)General PurposeStandard{u'USD': u'0.0230000000'}
+EU (London)ArchiveAmazon Glacier{u'USD': u'0.0045000000'}
+US East (Ohio)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0100000000'}
+Asia Pacific (Singapore)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0200000000'}
+Asia Pacific (Seoul)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+AWS GovCloud (US-East)StagingGlacier Deep Archive{u'USD': u'0.0355000000'}
+Canada (Central)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0138000000'}
+US West (N. California)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0190000000'}
+US East (Ohio)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0125000000'}
+Asia Pacific (Tokyo)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0190000000'}
+Asia Pacific (Singapore)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+US East (N. Virginia)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0125000000'}
+US West (Oregon)ArchiveAmazon Glacier{u'USD': u'0.0040000000'}
+US West (N. California)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+EU (Frankfurt)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0108000000'}
+EU (Frankfurt)Non-Critical DataReduced Redundancy{u'USD': u'0.0251000000'}
+Asia Pacific (Tokyo)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0250000000'}
+Canada (Central)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+South America (Sao Paulo)General PurposeStandard{u'USD': u'0.0370000000'}
+EU (Paris)StagingAmazon Glacier{u'USD': u'0.0220000000'}
+Canada (Central)General PurposeStandard{u'USD': u'0.0240000000'}
+Canada (Central)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0110400000'}
+Asia Pacific (Osaka-Local)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0190000000'}
+EU (Stockholm)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0100000000'}
+Asia Pacific (Hong Kong)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+Asia Pacific (Osaka-Local)General PurposeStandard{u'USD': u'0.0250000000'}
+Canada (Central)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0138000000'}
+Asia Pacific (Sydney)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0230000000'}
+EU (Ireland)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0100000000'}
+EU (Paris)ArchiveAmazon Glacier{u'USD': u'0.0045000000'}
+Asia Pacific (Seoul)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+EU (Stockholm)General PurposeStandard{u'USD': u'0.0210000000'}
+Middle East (Bahrain)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0240000000'}
+Asia Pacific (Seoul)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0144000000'}
+Asia Pacific (Singapore)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0160000000'}
+Middle East (Bahrain)Non-Critical DataReduced Redundancy{u'USD': u'0.0242000000'}
+EU (London)StagingAmazon Glacier{u'USD': u'0.0220000000'}
+US West (N. California)StagingAmazon Glacier{u'USD': u'0.0240000000'}
+EU (Ireland)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0125000000'}
+US West (N. California)StagingGlacier Deep Archive{u'USD': u'0.0240000000'}
+EU (Ireland)StagingGlacier Deep Archive{u'USD': u'0.0210000000'}
+Asia Pacific (Osaka-Local)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0152000000'}
+Asia Pacific (Osaka-Local)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+US West (Oregon)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0210000000'}
+AWS GovCloud (US-East)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0200000000'}
+Asia Pacific (Mumbai)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0190000000'}
+Asia Pacific (Sydney)StagingAmazon Glacier{u'USD': u'0.0230000000'}
+Asia Pacific (Tokyo)Non-Critical DataReduced Redundancy{u'USD': u'0.0264000000'}
+Middle East (Bahrain)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0110400000'}
+EU (Ireland)StagingAmazon Glacier{u'USD': u'0.0210000000'}
+Asia Pacific (Osaka-Local)StagingGlacier Deep Archive{u'USD': u'0.0230000000'}
+AWS GovCloud (US-West)StagingAmazon Glacier{u'USD': u'0.0355000000'}
+US West (Oregon)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0125000000'}
+US West (Oregon)Non-Critical DataReduced Redundancy{u'USD': u'0.0228000000'}
+AWS GovCloud (US-West)StagingGlacier Deep Archive{u'USD': u'0.0355000000'}
+EU (Ireland)Non-Critical DataReduced Redundancy{u'USD': u'0.0228000000'}
+Asia Pacific (Tokyo)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0190000000'}
+EU (Stockholm)StagingAmazon Glacier{u'USD': u'0.0210000000'}
+AWS GovCloud (US-East)ArchiveAmazon Glacier{u'USD': u'0.0060000000'}
+US West (Oregon)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0125000000'}
+Asia Pacific (Seoul)Non-Critical DataReduced Redundancy{u'USD': u'0.0234000000'}
+Asia Pacific (Singapore)General PurposeStandard{u'USD': u'0.0230000000'}
+AWS GovCloud (US-East)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0160000000'}
+EU (London)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0131000000'}
+Asia Pacific (Sydney)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0190000000'}
+Asia Pacific (Singapore)Non-Critical DataReduced Redundancy{u'USD': u'0.0220000000'}
+Asia Pacific (Tokyo)ArchiveAmazon Glacier{u'USD': u'0.0050000000'}
+Asia Pacific (Hong Kong)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0230000000'}
+Canada (Central)Intelligent-TieringIntelligent-Tiering Frequent Access{u'USD': u'0.0240000000'}
+Asia Pacific (Hong Kong)Intelligent-TieringIntelligent-Tiering Infrequent Access{u'USD': u'0.0180000000'}
+US West (Oregon)General PurposeStandard{u'USD': u'0.0220000000'}
+South America (Sao Paulo)Infrequent AccessOne Zone - Infrequent Access{u'USD': u'0.0208000000'}
+AWS GovCloud (US-West)General PurposeStandard{u'USD': u'0.0370000000'}
+South America (Sao Paulo)Infrequent AccessStandard - Infrequent Access{u'USD': u'0.0260000000'}
+Asia Pacific (Hong Kong)StagingAmazon Glacier{u'USD': u'0.0230000000'}
