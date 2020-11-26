@@ -3,18 +3,18 @@ from config import config
 # Some other example server values are
 # server = 'localhost\sqlexpress' # for a named instance
 # server = 'myserver,port' # to specify an alternate port
-# server = '10.0.0.69'
-# database = 'synergy'
-# username = 'synergy'
-# password = 'Karthik@123'
+# server = ''
+# database = ''
+# username = ''
+# password = ''
 # Port = '5432'
-# schema= 'synergy'
-# server = 'vm01-eus-synergydb.eastus.cloudapp.azure.com'
-# database = 'synergydb'
-# username = 'syndbadmin'
-# password = 'Syn3rGyAppU53R#AzUr3'
+# schema= ''
+# server = ''
+# database = ''
+# username = ''
+# password = ''
 # Port = '5443'
-# schema= 'synergyapp'
+# schema= ''
 
 
 try:
